@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T06:39:20.152079+00:00",
+  "slug": "almea-digital-compass",
+  "type": "service",
+  "package": "almeagroup.technology.aldigitalcompass",
+  "prefix": "RBVRH",
+  "app_name": "Almea Digital Compass",
+  "task_gid": "1217580748339439",
+  "task_name": "GB GW4 C1512",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217580748339439",
+  "domain": "https://almeagroup.study",
+  "company": "ALMEA GROUP LIMITED",
+  "repo_url": "https://github.com/ArtCode379/almea-digital-compass",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
