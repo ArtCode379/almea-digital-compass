@@ -9,4 +9,7 @@ data class ServiceModel(
     val price: Double,
     val availableTime: List<LocalTime>? = null,
     val imageUrl: String,
+    val category: String,
+    val durationMinutes: Int,
+    val features: List<String>,
 )

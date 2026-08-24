@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Downloadable font certificates are declared in res/values/font_certs.xml.
+    This XML resource documents the certificate resource consumed by GoogleFont.Provider.
+-->
+<font-certificates
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:resource="@array/com_google_android_gms_fonts_certs" />
